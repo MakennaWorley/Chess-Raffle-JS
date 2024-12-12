@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Staatliches&display=swap');
+
+body {
+	margin: 0px;
+    background-color: Black;
+    overflow: scroll; 
+}
+
+#title {
+	font-family: 'Staatliches', cursive;
+	font-size: 80px;
+	text-align: center;
+	color: #2296bc;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(62, 184, 94);
+}
+
+#canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+	background-color: #636363;
+	border-radius: 50%;
+}
